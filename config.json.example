@@ -1,0 +1,11 @@
+{
+  "apiKey": "YOUR_API_KEY_HERE",
+  "categories": [
+    "technology",
+    "business",
+    "science",
+    "health",
+    "sports"
+  ],
+  "outputFile": "output/digest.html"
+}
